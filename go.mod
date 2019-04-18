@@ -1,4 +1,4 @@
-module gopkg.in/rethinkdb/rethinkdb-go.v5
+module github.com/arnodel/rethinkdb-go
 
 require (
 	github.com/cenkalti/backoff v2.0.0+incompatible
